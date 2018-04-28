@@ -1,0 +1,79 @@
+/* 全局 */
+.i_title {
+  background: #f3f3f3;
+  font-weight: 600;
+  line-height: 40px;
+  border-bottom: 1px solid #e4e4e4;
+  padding-left: 20px;
+}
+.border {
+  border: 1px solid #e4e4e4;
+}
+/* 视图内页面整体样式 */
+.widthSet{
+  width: 80%;
+  margin: 0 auto;
+  min-width: 1000px;
+  padding-top: 30px;
+}
+/* 查询组件样式 */
+.searchComponent {
+  background: #fff;
+  box-sizing: border-box;
+}
+.el-icon-search {
+  font-size: 18px;
+  font-weight: bold;
+}
+.searchComponent .input {
+  box-sizing: border-box;
+  padding: 20px;
+}
+.searchComponent .i_title{
+  position: relative;
+}
+.searchComponent .searchBtn{
+  position: absolute;
+  top: 6px;
+  right: 30px;;
+}
+.searchComponent .input .inputWidth{
+  width: 320px;
+  margin-right: 150px;
+}
+.Limit .table_box {
+  margin: 20px 0;
+}
+.Limit .table_box>.i_title{
+  position: relative;
+}
+.Limit .table_box .addLimit{
+  position: absolute;
+  top: 5px;
+  right: 30px;
+  color: #333;
+}
+.table_box .table_body {
+  text-align: center;
+}
+
+/* 分页样式 */
+.pageCtrl {
+  background: #fff;
+  text-align: right;
+  padding: 10px 30px 10px 0;
+}
+/* only department style*/
+/* 显示树状图Btn */
+.treeView {
+  position: absolute;
+  top: 5px;
+  right: 130px;
+  color: #333;
+}
+/* only member style */
+/* member Search 不同样式 */
+.adjustPerson-search .searchComponent {
+  margin: 20px 20px;
+}
+/* only handleLog style */
