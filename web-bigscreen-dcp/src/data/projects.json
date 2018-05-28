@@ -1,0 +1,386 @@
+[
+    {
+      "province": "安徽",
+      "address": "安徽省合肥市包河区",
+      "project": "合肥万科",
+      "buildings": ["11#", "18#"]
+    },
+    {
+      "province": "安徽",
+      "address": "安徽省合肥市肥西县",
+      "project": "合肥紫荆名都",
+      "buildings": ["1#", "2#"]
+    },
+    {
+      "province": "安徽",
+      "address": "安徽省合肥市新站区",
+      "project": "合肥新站",
+      "buildings": ["18#"]
+    },
+    {
+      "province": "福建",
+      "address": "福建省莆田市",
+      "project": "莆田万科",
+      "buildings": ["1#", "2#", "7#", "8#"]
+    },
+    {
+      "province": "广东",
+      "address": "广东省广州市萝岗区",
+      "project": "广州萝岗保利",
+      "buildings": ["16#左", "16#右", "20#"]
+    },
+    {
+      "province": "广东",
+      "address": "广东省广州市番禺区",
+      "project": "长隆香榭花园",
+      "buildings": ["1#"]
+    },
+    {
+      "province": "广东",
+      "address": "广东省惠州市惠阳区",
+      "project": "惠州碧桂园",
+      "buildings": ["9#", "10#", "11#"]
+    },
+    {
+      "province": "广东",
+      "address": "广东省清远市清城区清辉北路",
+      "project": "广东清远瀚清华府",
+      "buildings": ["2#", "3#", "8#", "9#", "10#", "11#", "30#"]
+    },
+    {
+      "province": "广东",
+      "address": "广东省清远市清新区太和镇",
+      "project": "清远保利",
+      "buildings": ["1#", "2#", "15#"]
+    },
+    {
+      "province": "广东",
+      "address": "广东省汕头市潮阳区",
+      "project": "潮阳碧桂园",
+      "buildings": ["1A", "2A", "7#"]
+    },
+    {
+      "province": "广东",
+      "address": "广东省汕头市濠江区南滨路",
+      "project": "寰宇天下",
+      "buildings": ["5#"]
+    },
+    {
+      "province": "广东",
+      "address": "广东省深圳市宝安区华夏路",
+      "project": "深圳乐府花园",
+      "buildings": ["1#", "2#", "4#"]
+    },
+    {
+      "province": "广东",
+      "address": "广东省深圳市龙岗区",
+      "project": "深圳勤城达",
+      "buildings": ["7#"]
+    },
+    {
+      "province": "广东",
+      "address": "广东省深圳市南山区南海大道3688号",
+      "project": "深圳大学宿舍",
+      "buildings": ["1#B", "2#"]
+    },
+    {
+      "province": "广东",
+      "address": "广东省深圳市南山区滨海科苑立交桥",
+      "project": "华润深圳湾柏宁花园",
+      "buildings": ["1#", "2#"]
+    },
+    {
+      "province": "广东",
+      "address": "广东省深圳市坪山区",
+      "project": "坪山保障房",
+      "buildings": ["14#"]
+    },
+    {
+      "province": "广东",
+      "address": "广东省肇庆市世纪大道",
+      "project": "肇庆保利",
+      "buildings": ["14#"]
+    },
+    {
+      "province": "广东",
+      "address": "广东省肇庆市四会市",
+      "project": "四会金凯盛",
+      "buildings": []
+    },
+    {
+      "province": "广东",
+      "address": "广东省佛山市顺德区",
+      "project": "璞悦花园",
+      "buildings": ["7#", "8#"]
+    },
+    {
+      "province": "广东",
+      "address": "广东省佛山市南海区创智路",
+      "project": "保利心语花园",
+      "buildings": ["1#"]
+    },
+    {
+      "province": "广东",
+      "address": "广东省佛山市中铁建水岸公馆",
+      "project": "水岸公馆",
+      "buildings": ["1#", "2#", "4#", "6#"]
+    },
+    {
+      "province": "广东",
+      "address": "广东省佛山市顺德区龙江镇",
+      "project": "龙江华府",
+      "buildings": []
+    },
+    {
+      "province": "广东",
+      "address": "广东省佛山市顺德区万科沁园",
+      "project": "万科沁园",
+      "buildings": ["20#"]
+    },
+    {
+      "province": "广西",
+      "address": "广西壮族自治区北海银滩镇美景路88号",
+      "project": "北海碧桂园",
+      "buildings": ["60#", "68#"]
+    },
+    {
+      "province": "广西",
+      "address": "广西壮族自治区桂林市临桂区西城大道山水凤凰城",
+      "project": "桂林山水凤凰城",
+      "buildings": ["15#", "16#", "17#", "19#", "20#"]
+    },
+    {
+      "province": "广西",
+      "address": "广西壮族自治区柳州市桂柳路9号",
+      "project": "柳州柳东置地",
+      "buildings": ["8#", "11#"]
+    },
+    {
+      "province": "广西",
+      "address": "广西壮族自治区柳州市柳东新区",
+      "project": "广西壮族自治区柳州柳东保障房",
+      "buildings": ["11#"]
+    },
+    {
+      "province": "广西",
+      "address": "广西壮族自治区陆川县三峰东路",
+      "project": "陆川龙腾华府",
+      "buildings": ["1#", "2#"]
+    },
+    {
+      "province": "广西",
+      "address": "广西壮族自治区南宁市凤岭",
+      "project": "南宁凤岭客运站",
+      "buildings": ["1#", "2#"]
+    },
+    {
+      "province": "广西",
+      "address": "广西壮族自治区南宁市青秀区民族大道",
+      "project": "南宁华润置地",
+      "buildings": ["1#", "2#", "3#", "6#"]
+    },
+    {
+      "province": "广西",
+      "address": "广西壮族自治区南宁市西乡塘区北湖大唐天城",
+      "project": "南宁大唐天城",
+      "buildings": ["1#", "2#", "3#"]
+    },
+    {
+      "province": "广西",
+      "address": "广西壮族自治区南宁市长湖路65号",
+      "project": "南宁中洲璞悦花园",
+      "buildings": ["7#", "8#"]
+    },
+    {
+      "province": "广西",
+      "address": "广西壮族自治区南宁市北湖区",
+      "project": "华润南棉",
+      "buildings": ["1#", "2#", "3#", "6#"]
+    },
+    {
+      "province": "广西",
+      "address": "广西壮族自治区柳州市柳江区",
+      "project": "柳江碧桂园",
+      "buildings": ["37#"]
+    },
+    {
+      "province": "广西",
+      "address": "广西壮族自治区玉林市",
+      "project": "广西陆川",
+      "buildings": ["1#", "2#", "3#", "4#"]
+    },
+    {
+      "province": "广西",
+      "address": "广西壮族自治区南宁市",
+      "project": "万科金域",
+      "buildings": ["15#"]
+    },
+    {
+      "province": "广西",
+      "address": "广西壮族自治区百色市田东县祥宁路",
+      "project": "田东碧桂园",
+      "buildings": ["6#", "9#", "10#"]
+    },
+    {
+      "province": "广西",
+      "address": "广西壮族自治区钦州市",
+      "project": "钦州碧桂园",
+      "buildings": ["13#", "14#", "15#"]
+    },
+    {
+      "province": "广西",
+      "address": "广西壮族自治区梧州市",
+      "project": "梧州大院",
+      "buildings": ["A栋", "B栋"]
+    },
+    {
+      "province": "贵州",
+      "address": "贵州省贵阳市",
+      "project": "贵阳1号项目",
+      "buildings": ["1#"]
+    },
+    {
+      "province": "海南",
+      "address": "海南省海口市",
+      "project": "红沙棕榈滩绿地",
+      "buildings": ["1#"]
+    },
+    {
+      "province": "海南",
+      "address": "海南省海口市秀英区",
+      "project": "观澜湖休闲会所项目",
+      "buildings": ["6#", "7#"]
+    },
+    {
+      "province": "海南",
+      "address": "海南省三亚市",
+      "project": "三亚国际传媒",
+      "buildings": ["4#", "5#"]
+    },
+    {
+      "province": "海南",
+      "address": "海南省三亚市海棠湾",
+      "project": "亚特兰蒂斯酒店",
+      "buildings": ["主塔楼", "水族馆"]
+    },
+    {
+      "province": "河北",
+      "address": "河北省石家庄市和平东路",
+      "project": "荣盛华府",
+      "buildings": ["11#", "12#", "14#"]
+    },
+    {
+      "province": "河南",
+      "address": "河南省郑州市管城回族区",
+      "project": "郑州恒大",
+      "buildings": ["195#"]
+    },
+    {
+      "province": "河南",
+      "address": "河南省郑州市惠济区开元路北",
+      "project": "郑州碧园月湖",
+      "buildings": ["5#"]
+    },
+    {
+      "province": "河南",
+      "address": "河南省郑州市金水区",
+      "project": "丹尼斯",
+      "buildings": ["1#"]
+    },
+    {
+      "province": "河南",
+      "address": "河南省洛阳市",
+      "project": "恒大绿洲",
+      "buildings": ["195#"]
+    },
+    {
+      "province": "湖南",
+      "address": "湖南省长沙市望城区",
+      "project": "长沙建发美地",
+      "buildings": ["3#", "6#"]
+    },
+    {
+      "province": "湖南",
+      "address": "湖南省长沙市芙蓉区东牌楼6号",
+      "project": "国金中心",
+      "buildings": ["T1", "T2"]
+    },
+    {
+      "province": "江苏",
+      "address": "江苏省徐州市",
+      "project": "荣盛城",
+      "buildings": ["11#", "13#"]
+    },
+    {
+      "province": "江苏",
+      "address": "江苏省无锡市",
+      "project": "无锡万达",
+      "buildings": ["11#", "12#", "13#", "14#", "15#"]
+    },
+    {
+      "province": "江苏",
+      "address": "江苏南浔区南林路",
+      "project": "南浔碧桂园",
+      "buildings": ["21#", "22#"]
+    },
+    {
+      "province": "江西",
+      "address": "江西省南昌市青山湖区",
+      "project": "江西万科玖里",
+      "buildings": ["9#", "12#"]
+    },
+    {
+      "province": "山东",
+      "address": "山东省淄博市周村区",
+      "project": "山东盛世国际",
+      "buildings": ["7#", "12#"]
+    },
+    {
+      "province": "山西",
+      "address": "山西省太原市滨河东路",
+      "project": "太原恒大城",
+      "buildings": ["5#", "6#"]
+    },
+    {
+      "province": "山西",
+      "address": "山西省太原市万柏林区",
+      "project": "太原幸福里",
+      "buildings": ["1#", "2#", "3#"]
+    },
+    {
+      "province": "陕西",
+      "address": "陕西省延安市",
+      "project": "陕西华风远悦",
+      "buildings": ["8#"]
+    },
+    {
+      "province": "陕西",
+      "address": "陕西省西安市",
+      "project": "万科幸福里",
+      "buildings": ["1#"]
+    },
+    {
+      "province": "天津",
+      "address": "天津市西青区",
+      "project": "天津花溪园",
+      "buildings": ["16#"]
+    },
+    {
+      "province": "云南",
+      "address": "云南省昆明市",
+      "project": "昆明保障房",
+      "buildings": ["1#", "2#", "10#", "13#"]
+    },
+    {
+      "province": "云南",
+      "address": "云南省昆明市万达广场",
+      "project": "万达广场",
+      "buildings": ["8#", "9#"]
+    },
+    {
+      "province": "重庆",
+      "address": "重庆市沙坪坝区",
+      "project": "重庆万达城",
+      "buildings": ["A户型", "B户型", "C户型", "E户型", "H户型"]
+    }
+  ]
